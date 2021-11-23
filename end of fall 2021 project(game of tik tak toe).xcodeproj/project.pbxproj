@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		5B22AF372740F50A00132CAD /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5B22AF362740F50A00132CAD /* main.cpp */; };
+		5B22AF372740F50A00132CAD /* Tictactoe.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5B22AF362740F50A00132CAD /* Tictactoe.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		5B22AF332740F50A00132CAD /* end of fall 2021 project(game of tik tak toe) */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "end of fall 2021 project(game of tik tak toe)"; sourceTree = BUILT_PRODUCTS_DIR; };
-		5B22AF362740F50A00132CAD /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		5B22AF362740F50A00132CAD /* Tictactoe.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Tictactoe.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		5B22AF352740F50A00132CAD /* end of fall 2021 project(game of tik tak toe) */ = {
 			isa = PBXGroup;
 			children = (
-				5B22AF362740F50A00132CAD /* main.cpp */,
+				5B22AF362740F50A00132CAD /* Tictactoe.cpp */,
 			);
 			path = "end of fall 2021 project(game of tik tak toe)";
 			sourceTree = "<group>";
@@ -118,7 +118,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5B22AF372740F50A00132CAD /* main.cpp in Sources */,
+				5B22AF372740F50A00132CAD /* Tictactoe.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
